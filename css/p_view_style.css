@@ -1,0 +1,11 @@
+.mainbody{
+	height:100%;
+	width:80%;
+	border:1px solid #F00;
+}
+.body_img{
+	float:left;
+	width:250px;
+	height:250px;
+	border:1px solid #F00;
+}

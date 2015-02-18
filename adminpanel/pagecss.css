@@ -1,0 +1,77 @@
+
+.paginate {
+font-family:Arial, Helvetica, sans-serif;
+	padding: 3px;
+	margin: 3px;
+	
+}
+
+.paginate a {
+	padding:2px 5px 2px 5px;
+	margin:2px;
+	border:1px solid #999;
+	text-decoration:none;
+	color: #666;
+	
+}
+.paginate a:hover, .paginate a:active {
+	border: 1px solid #999;
+	color: #000;
+}
+.paginate span.current {
+    margin: 2px;
+	padding: 2px 5px 2px 5px;
+		border: 1px solid #999;
+		
+		font-weight: bold;
+		background-color: #999;
+		color: #FFF;
+	}
+	.paginate span.disabled {
+		padding:2px 5px 2px 5px;
+		margin:2px;
+		border:1px solid #eee;
+		color:#DDD;
+	}
+	
+	box{
+		height:250px;
+		width:200px;
+		border:1px solid #FFF;
+		float:left;
+		margin-bottom:10px;
+		margin-right:12px;
+		moz-box-shadow: 0 0 3px 3px #888;
+        -webkit-box-shadow: 0 0 3px 3px#888;
+        box-shadow: 0 0 3px 3px #888;
+		
+	}
+	box1{
+		height:225px;
+		width:200px;
+		border:1px solid #FFF;
+		float:left;
+		
+	}
+	box2{
+		height:23px;
+		width:235px;
+		border:1px solid #333;
+		float:left;
+		color:#FFF;
+		background-color:#333;
+	    -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+		border-top:2px solid #333;
+		moz-box-shadow: 0 0 3px 3px #888;
+        -webkit-box-shadow: 0 0 3px 3px#888;
+        box-shadow: 0 0 3px 3px #888;
+	    
+		
+		
+	}
+	
+@charset "utf-8";
+/* CSS Document */
+
